@@ -1,8 +1,8 @@
 ### Hi there, I'm Ridwan! 👋
 
-I'm a **Data Analyst** based in **Lagos, Nigeria**, with over 7 years of experience in **Data Analysis and BI Development**. I specialize in tools like **Excel, SQL, Power BI, and Tableau** to extract insights and drive business decisions.
+I'm a **Data Analyst** based in **Lagos, Nigeria**, with over 7 years of experience in **Data Analysis and BI Development**. I specialize in tools like **Excel, SQL, Power BI, Tableau and Python** to extract insights and drive business decisions.
 
-- 🔭 I’m currently working as an **Analytics Consultant at Massachusetts General Hospital (MGH)**.
+- 🔭 I’m currently working as an **Data Analyst at Digital Bananas**.
 - 📚 I'm currently learning **advanced data visualization techniques and automation in Power BI**.
 - ⚡ In my free time, I **create tutorial videos, teach data analysis, and work on industry-related projects**.
 
@@ -14,7 +14,7 @@ I'm a **Data Analyst** based in **Lagos, Nigeria**, with over 7 years of experie
 
 ### 📫 Connect with Me:
 - 🌐 [LinkedIn](www.linkedin.com/in/ridwan--ibrahim)
-- 📺 [YouTube](your-youtube-channel)
+- 📺 [YouTube](http://www.youtube.com/@DataSageAcademy)
 - 📝 [Datasage Academy](ridwan-ibrahim.netlify.app)
 - ✉️ [Email](search4ridwan@gmail.com)
 
